@@ -1,4 +1,4 @@
-# README
+# Age Prediction Task
 
 ## Task: Predict a Person’s Age from Brain Image Data
 
